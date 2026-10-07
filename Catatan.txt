@@ -1,3 +1,4 @@
 Saya sedang belajar GIT.
 Saya sedang belajar konsep dasar version control.
 Saya juga sedang belajar Flutter dengan serius untuk pekerjaan.
+Saya sedang belajar Git dan GitHub.
