@@ -1,1 +1,2 @@
 Saya sedang belajar GIT.
+Saya sedang belajar konsep dasar version control.
